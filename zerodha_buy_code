@@ -119,6 +119,7 @@ public class Buy_indraday_share_test {
 	public void screeshot() throws IOException
 	{
 		Screenshot.Take_screenshot(driver, "share_buy");
+		System.out.println("dfghjkkdfgh")
 	}
 	
 	
